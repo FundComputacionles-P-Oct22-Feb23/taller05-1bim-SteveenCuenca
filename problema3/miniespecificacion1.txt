@@ -1,0 +1,17 @@
+1. Inicio
+2. celcius, d[0-n]
+3. fahrenheit, d[0-n]
+4. kelvin, d[0-n]
+
+5. << "Ingrese los grados Celsius " 
+6. >> celcius
+
+7. fahrenheit <-- celcius * (9/5) + 32
+8. Si celcius >= 0 and <= 100
+9. kelvin <-- celcius + 278.15
+10. Fin si
+
+11. << "De celcius a kelvin es:" + kelvin
+12. << "De celicus a fahrneheit es:" + fahrenheit
+
+13. Fin 
